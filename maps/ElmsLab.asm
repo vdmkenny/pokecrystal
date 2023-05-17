@@ -807,7 +807,7 @@ DidntChooseStarterText:
 	line "carefully."
 
 	para "A #MON is a big"
-	line "commitment.
+	line "commitment."
 	done
 
 ChoseStarterText:
