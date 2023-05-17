@@ -657,7 +657,7 @@ OakSpeech:
 	call RotateThreePalettesRight
 	call ClearTilemap
 
-	ld a, VAPOREON
+	ld a, EEVEE
 	ld [wCurSpecies], a
 	ld [wCurPartySpecies], a
 	call GetBaseData
@@ -717,7 +717,7 @@ OakText1:
 OakText2:
 	text_far _OakText2
 	text_asm
-	ld a, VAPOREON
+	ld a, EEVEE
 	call PlayMonCry
 	call WaitSFX
 	ld hl, OakText3
