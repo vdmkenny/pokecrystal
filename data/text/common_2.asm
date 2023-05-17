@@ -1412,7 +1412,7 @@ _ItemsTooImportantText::
 	prompt
 
 _ItemsOakWarningText::
-	text "OAK: <PLAYER>!"
+	text "ELM: <PLAYER>!"
 	line "This isn't the"
 	cont "time to use that!"
 	done
@@ -1532,7 +1532,7 @@ _OakText1::
 	para "Welcome to the"
 	line "world of #MON!"
 
-	para "My name is OAK."
+	para "My name is ELM."
 
 	para "People call me the"
 	line "#MON PROF."
