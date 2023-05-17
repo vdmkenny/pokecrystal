@@ -1800,12 +1800,15 @@ EeveeEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, TAIL_WHIP
-	db 8, SAND_ATTACK
-	db 16, GROWL
-	db 23, QUICK_ATTACK
-	db 30, BITE
-	db 36, BATON_PASS
-	db 42, TAKE_DOWN
+	db 5, SAND_ATTACK
+	db 5, GROWL
+	db 10, QUICK_ATTACK
+        db 20, SWIFT
+        db 25, BITE
+	db 35, BATON_PASS
+	db 40, TAKE_DOWN
+        db 45, CHARM
+        db 50, DOUBLE_EDGE
 	db 0 ; no more level-up moves
 
 VaporeonEvosAttacks:
