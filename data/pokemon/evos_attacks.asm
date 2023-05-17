@@ -834,7 +834,7 @@ AbraEvosAttacks:
 	db 0 ; no more level-up moves
 
 KadabraEvosAttacks:
-	db EVOLVE_TRADE, -1, ALAKAZAM
+	db EVOLVE_LEVEL, 36, ALAKAZAM
 	db 0 ; no more evolutions
 	db 1, TELEPORT
 	db 1, KINESIS
@@ -878,7 +878,7 @@ MachopEvosAttacks:
 	db 0 ; no more level-up moves
 
 MachokeEvosAttacks:
-	db EVOLVE_TRADE, -1, MACHAMP
+	db EVOLVE_LEVEL, 36, MACHAMP
 	db 0 ; no more evolutions
 	db 1, LOW_KICK
 	db 1, LEER
@@ -992,7 +992,7 @@ GeodudeEvosAttacks:
 	db 0 ; no more level-up moves
 
 GravelerEvosAttacks:
-	db EVOLVE_TRADE, -1, GOLEM
+	db EVOLVE_LEVEL, 36, GOLEM
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, DEFENSE_CURL
@@ -1815,42 +1815,40 @@ VaporeonEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, TAIL_WHIP
-	db 8, SAND_ATTACK
+	db 5, SAND_ATTACK
+	db 10, QUICK_ATTACK
 	db 16, WATER_GUN
-	db 23, QUICK_ATTACK
-	db 30, BITE
-	db 36, AURORA_BEAM
-	db 42, HAZE
-	db 47, ACID_ARMOR
-	db 52, HYDRO_PUMP
+	db 20, HAZE
+	db 30, AURORA_BEAM
+	db 45, ACID_ARMOR
+	db 50, HYDRO_PUMP
 	db 0 ; no more level-up moves
 
 JolteonEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, TAIL_WHIP
-	db 8, SAND_ATTACK
+	db 5, SAND_ATTACK
+	db 10, QUICK_ATTACK
 	db 16, THUNDERSHOCK
-	db 23, QUICK_ATTACK
-	db 30, DOUBLE_KICK
-	db 36, PIN_MISSILE
-	db 42, THUNDER_WAVE
-	db 47, AGILITY
-	db 52, THUNDER
+	db 20, THUNDER_WAVE
+	db 25, DOUBLE_KICK
+	db 35, PIN_MISSILE
+	db 45, AGILITY
+	db 50, THUNDER
 	db 0 ; no more level-up moves
 
 FlareonEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, TAIL_WHIP
-	db 8, SAND_ATTACK
+	db 5, SAND_ATTACK
+	db 10, QUICK_ATTACK
 	db 16, EMBER
-	db 23, QUICK_ATTACK
-	db 30, BITE
-	db 36, FIRE_SPIN
-	db 42, SMOG
-	db 47, LEER
-	db 52, FLAMETHROWER
+	db 20, SMOG
+	db 25, BITE
+	db 35, FIRE_SPIN
+	db 50, FLAMETHROWER
 	db 0 ; no more level-up moves
 
 PorygonEvosAttacks:
