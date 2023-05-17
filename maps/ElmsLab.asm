@@ -687,6 +687,21 @@ ElmText_Intro:
 	para "to present at a"
 	line "conference."
 
+	para "It's about EEVEE"
+	line "evolution!"
+
+	para "We know they can"
+	line "evolve into many"
+
+	para "different types"
+	line "of #MON."
+
+	para "Rumor is, there"
+	line "are 8 different"
+
+	para "kinds it can"
+	line "evolve into!"
+
 	para "But there are some"
 	line "things I don't"
 
