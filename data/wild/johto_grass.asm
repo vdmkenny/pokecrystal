@@ -1328,7 +1328,6 @@ JohtoGrassWildMons:
 	db 7, PIDGEY
 	db 7, HOPPIP
         db 7, MAREEP
-	db 7, HOPPIP
 	; day
 	db 4, EKANS
 	db 5, RATTATA
@@ -1337,7 +1336,6 @@ JohtoGrassWildMons:
 	db 7, PIDGEY
 	db 7, HOPPIP
         db 7, MAREEP
-	db 7, HOPPIP
 	; nite
 	db 4, WOOPER
 	db 5, RATTATA
@@ -1554,7 +1552,6 @@ JohtoGrassWildMons:
 	db 15, ARBOK
 	db 16, FEAROW
         db 16, MAREEP
-	db 16, FEAROW
 	; day
 	db 13, EKANS
 	db 14, SPEAROW
@@ -1563,7 +1560,6 @@ JohtoGrassWildMons:
 	db 15, ARBOK
 	db 16, FEAROW
         db 16, MAREEP
-	db 16, FEAROW
 	; nite
 	db 13, RATTATA
 	db 14, ZUBAT
@@ -1584,7 +1580,6 @@ JohtoGrassWildMons:
         db 16, MAREEP
 	db 17, RATICATE
 	db 17, FURRET
-	db 17, FURRET
 	; day
 	db 15, SENTRET
 	db 16, PIDGEOTTO
@@ -1592,7 +1587,6 @@ JohtoGrassWildMons:
 	db 15, FURRET
         db 16, MAREEP
 	db 17, RATICATE
-	db 17, FURRET
 	db 17, FURRET
 	; nite
 	db 15, VENONAT
