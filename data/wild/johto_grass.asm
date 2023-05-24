@@ -1437,7 +1437,7 @@ JohtoGrassWildMons:
 	db 4, PIDGEY
 	db 5, BELLSPROUT
 	db 5, GROWLITHE
-	db 5, PIDGEY
+	db 5, VULPIX
 	db 6, PIDGEY
 	db 6, PIDGEY
 	; day
@@ -1445,7 +1445,7 @@ JohtoGrassWildMons:
 	db 4, PIDGEY
 	db 5, BELLSPROUT
 	db 5, GROWLITHE
-	db 5, PIDGEY
+	db 5, VULPIX
 	db 6, PIDGEY
 	db 6, PIDGEY
 	; nite
@@ -1466,7 +1466,7 @@ JohtoGrassWildMons:
 	db 15, PIDGEY
 	db 16, GROWLITHE
 	db 15, PIDGEOTTO
-	db 15, LEDIAN
+	db 15, VULPIX
 	db 15, LEDIAN
 	; day
 	db 13, PIDGEY
@@ -1474,7 +1474,7 @@ JohtoGrassWildMons:
 	db 15, PIDGEY
 	db 16, GROWLITHE
 	db 15, PIDGEOTTO
-	db 15, PIDGEY
+	db 15, VULPIX
 	db 15, PIDGEY
 	; nite
 	db 13, SPINARAK
