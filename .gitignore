@@ -1,5 +1,6 @@
 # compiled objects
 *.o
+pokecrystal11.s0
 
 # compiled graphics
 *.1bpp

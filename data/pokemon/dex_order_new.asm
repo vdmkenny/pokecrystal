@@ -187,6 +187,7 @@ NewPokedexOrder:
 	db FLAREON
 	db ESPEON
 	db UMBREON
+        db LEAFEON
 	db HORSEA
 	db SEADRA
 	db KINGDRA
