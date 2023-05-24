@@ -1548,7 +1548,7 @@ JohtoGrassWildMons:
 	db 13, EKANS
 	db 14, SPEAROW
 	db 15, RATTATA
-	db 16, RATICATE
+	db 16, MANKEY
 	db 15, ARBOK
 	db 16, FEAROW
         db 16, MAREEP
@@ -1556,7 +1556,7 @@ JohtoGrassWildMons:
 	db 13, EKANS
 	db 14, SPEAROW
 	db 15, RATTATA
-	db 16, RATICATE
+	db 16, MANKEY
 	db 15, ARBOK
 	db 16, FEAROW
         db 16, MAREEP

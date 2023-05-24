@@ -402,7 +402,7 @@ KantoGrassWildMons:
 	db 15, RATICATE
 	db 15, FEAROW
 	db 15, FEAROW
-	db 18, MAROWAK
+	db 18, MANKEY
 	db 18, MAROWAK
 	; day
 	db 15, RATTATA
@@ -410,7 +410,7 @@ KantoGrassWildMons:
 	db 15, RATICATE
 	db 15, FEAROW
 	db 15, FEAROW
-	db 18, MAROWAK
+	db 18, MANKEY
 	db 18, MAROWAK
 	; nite
 	db 15, RATTATA
