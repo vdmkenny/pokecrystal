@@ -3366,9 +3366,26 @@ LeafeonEvosAttacks:
 	db 10, QUICK_ATTACK
 	db 16, RAZOR_LEAF
 	db 20, LEECH_SEED
+        db 25, BITE
 	db 30, SYNTHESIS
         db 35, SUNNY_DAY
 	db 40, GIGA_DRAIN
 	db 45, SWORDS_DANCE
 	db 50, PETAL_DANCE
+	db 0 ; no more level-up moves
+
+GlaceonEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, TACKLE
+	db 1, TAIL_WHIP
+	db 5, SAND_ATTACK
+	db 10, QUICK_ATTACK
+	db 16, ICY_WIND
+	db 20, POWDER_SNOW
+        db 25, BITE
+	db 30, ICE_PUNCH
+        db 35, MIST
+	db 40, AURORA_BEAM
+	db 45, MIRROR_COAT
+	db 50, BLIZZARD
 	db 0 ; no more level-up moves

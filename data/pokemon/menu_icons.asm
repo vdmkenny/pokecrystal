@@ -254,4 +254,5 @@ MonMenuIcons:
 	db ICON_HO_OH       ; HO_OH
 	db ICON_HUMANSHAPE  ; CELEBI
 	db ICON_FOX         ; LEAFEON
+	db ICON_FOX         ; GLACEON
 	assert_table_length NUM_POKEMON

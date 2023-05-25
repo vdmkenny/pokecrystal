@@ -254,4 +254,5 @@ Pokered_MonIndices:
 	db WOBBUFFET
 	db WOBBUFFET
         db LEAFEON
+        db GLACEON
 	assert_table_length NUM_POKEMON + 1
