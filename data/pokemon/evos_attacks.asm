@@ -3165,13 +3165,16 @@ SylveonEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, TAIL_WHIP
-	db 5, SAND_ATTACK
+	db 1, CHARM
 	db 13, QUICK_ATTACK
 	db 17, SWIFT
 	db 20, SWEET_KISS
 	db 25, DOUBLE_KICK
+        db 30, MOONLIGHT
+        db 39, SWEET_KISS
 	db 33, LIGHT_SCREEN
 	db 45, PSYCH_UP
+        db 50, MOONBLAST
 	db 0 ; no more level-up moves
 
 ElekidEvosAttacks:
