@@ -3161,19 +3161,17 @@ HitmontopEvosAttacks:
 	db 49, TRIPLE_KICK
 	db 0 ; no more level-up moves
 
-SmoochumEvosAttacks:
-	db EVOLVE_LEVEL, 30, JYNX
+SylveonEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, POUND
-	db 1, LICK
-	db 9, SWEET_KISS
-	db 13, POWDER_SNOW
-	db 21, CONFUSION
-	db 25, SING
-	db 33, MEAN_LOOK
-	db 37, PSYCHIC_M
-	db 45, PERISH_SONG
-	db 49, BLIZZARD
+	db 1, TACKLE
+	db 1, TAIL_WHIP
+	db 5, SAND_ATTACK
+	db 13, QUICK_ATTACK
+	db 17, SWIFT
+	db 20, SWEET_KISS
+	db 25, DOUBLE_KICK
+	db 33, LIGHT_SCREEN
+	db 45, PSYCH_UP
 	db 0 ; no more level-up moves
 
 ElekidEvosAttacks:

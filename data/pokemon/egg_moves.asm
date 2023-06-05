@@ -771,7 +771,7 @@ TyrogueEggMoves:
 	db MIND_READER
 	db -1 ; end
 
-SmoochumEggMoves:
+JynxEggMoves:
 	db MEDITATE
 	db -1 ; end
 

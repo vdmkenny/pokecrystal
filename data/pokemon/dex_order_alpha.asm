@@ -206,7 +206,6 @@ AlphabeticalPokedexOrder:
 	db SLOWPOKE
 	db SLUGMA
 	db SMEARGLE
-	db SMOOCHUM
 	db SNEASEL
 	db SNORLAX
 	db SNUBBULL
@@ -222,6 +221,7 @@ AlphabeticalPokedexOrder:
 	db SUNFLORA
 	db SUNKERN
 	db SWINUB
+        db SYLVEON
 	db TANGELA
 	db TAUROS
 	db TEDDIURSA

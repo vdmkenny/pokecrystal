@@ -480,8 +480,8 @@ PokemonPicPointers::
 	dba TyrogueBackpic
 	dba HitmontopFrontpic
 	dba HitmontopBackpic
-	dba SmoochumFrontpic
-	dba SmoochumBackpic
+	dba SylveonFrontpic
+	dba SylveonBackpic
 	dba ElekidFrontpic
 	dba ElekidBackpic
 	dba MagbyFrontpic

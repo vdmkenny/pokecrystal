@@ -237,7 +237,7 @@ AnimationIdlePointers:
 	dw SmeargleAnimationIdle
 	dw TyrogueAnimationIdle
 	dw HitmontopAnimationIdle
-	dw SmoochumAnimationIdle
+	dw SylveonAnimationIdle
 	dw ElekidAnimationIdle
 	dw MagbyAnimationIdle
 	dw MiltankAnimationIdle

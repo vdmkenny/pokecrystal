@@ -237,7 +237,7 @@ AnimationPointers:
 	dw SmeargleAnimation
 	dw TyrogueAnimation
 	dw HitmontopAnimation
-	dw SmoochumAnimation
+	dw SylveonAnimation
 	dw ElekidAnimation
 	dw MagbyAnimation
 	dw MiltankAnimation

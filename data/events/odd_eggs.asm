@@ -18,7 +18,7 @@ DEF prob_total = 0
 ; Igglybuff
 	prob 16
 	prob 3
-; Smoochum
+; Jynx
 	prob 14
 	prob 2
 ; Magby
@@ -192,7 +192,7 @@ OddEggs:
 	bigdw 8 ; SDef
 	db "EGG@@@@@@@@"
 
-	db SMOOCHUM
+	db JYNX
 	db NO_ITEM
 	db POUND, LICK, DIZZY_PUNCH, 0
 	dw 03584 ; OT ID
@@ -218,7 +218,7 @@ OddEggs:
 	bigdw 11 ; SDef
 	db "EGG@@@@@@@@"
 
-	db SMOOCHUM
+	db JYNX
 	db NO_ITEM
 	db POUND, LICK, DIZZY_PUNCH, 0
 	dw 00512 ; OT ID

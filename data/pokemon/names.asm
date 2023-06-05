@@ -237,7 +237,7 @@ PokemonNames::
 	db "SMEARGLE@@"
 	db "TYROGUE@@@"
 	db "HITMONTOP@"
-	db "SMOOCHUM@@"
+	db "SYLVEON@@@"
 	db "ELEKID@@@@"
 	db "MAGBY@@@@@"
 	db "MILTANK@@@"

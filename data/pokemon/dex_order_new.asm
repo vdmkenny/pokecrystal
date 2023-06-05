@@ -153,7 +153,6 @@ NewPokedexOrder:
 	db MILTANK
 	db MAGBY
 	db MAGMAR
-	db SMOOCHUM
 	db JYNX
 	db ELEKID
 	db ELECTABUZZ
@@ -189,6 +188,7 @@ NewPokedexOrder:
 	db UMBREON
         db LEAFEON
         db GLACEON
+        db SYLVEON
 	db HORSEA
 	db SEADRA
 	db KINGDRA

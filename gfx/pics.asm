@@ -715,6 +715,8 @@ LeafeonFrontpic:     INCBIN "gfx/pokemon/leafeon/front.animated.2bpp.lz"
 LeafeonBackpic:      INCBIN "gfx/pokemon/leafeon/back.2bpp.lz"
 GlaceonFrontpic:     INCBIN "gfx/pokemon/glaceon/front.animated.2bpp.lz"
 GlaceonBackpic:      INCBIN "gfx/pokemon/glaceon/back.2bpp.lz"
+SylveonFrontpic:     INCBIN "gfx/pokemon/sylveon/front.animated.2bpp.lz"
+SylveonBackpic:      INCBIN "gfx/pokemon/sylveon/back.2bpp.lz"
 
 
 ; Sections "Pics 20" to "Pics 24" are not used for any graphics,
