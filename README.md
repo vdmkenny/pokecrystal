@@ -8,6 +8,7 @@ It aims shake up the base experience of the game by adding some fixes, new featu
 
 ### Bugfixes
 - [Improved sprite animation size](https://github.com/pret/pokecrystal/wiki/Increase-Pok%C3%A9mon-sprite-animation-size)
+- [Fix Apricot Balls](https://github.com/pret/pokecrystal/blob/master/docs/bugs_and_glitches.md#moon-ball-does-not-boost-catch-rate)
 
 ### Added
 #### Typing
