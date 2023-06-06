@@ -3304,27 +3304,42 @@ KimonoGirlGroup:
 
 	; KIMONO_GIRL (2)
 	db "NAOKO@", TRAINERTYPE_NORMAL
-	db 17, FLAREON
+	db 19, FLAREON
 	db -1 ; end
 
 	; KIMONO_GIRL (3)
 	db "SAYO@", TRAINERTYPE_NORMAL
-	db 17, ESPEON
+	db 19, ESPEON
 	db -1 ; end
 
 	; KIMONO_GIRL (4)
 	db "ZUKI@", TRAINERTYPE_NORMAL
-	db 17, UMBREON
+	db 19, UMBREON
 	db -1 ; end
 
 	; KIMONO_GIRL (5)
 	db "KUNI@", TRAINERTYPE_NORMAL
-	db 17, VAPOREON
+	db 19, VAPOREON
 	db -1 ; end
 
 	; KIMONO_GIRL (6)
 	db "MIKI@", TRAINERTYPE_NORMAL
-	db 17, JOLTEON
+	db 19, JOLTEON
+	db -1 ; end
+
+	; KIMONO_GIRL (7)
+	db "SAKURA@", TRAINERTYPE_NORMAL
+	db 19, LEAFEON
+	db -1 ; end
+
+	; KIMONO_GIRL (8)
+	db "YUKI@", TRAINERTYPE_NORMAL
+	db 19, GLACEON
+	db -1 ; end
+
+	; KIMONO_GIRL (9)
+	db "HARUKA@", TRAINERTYPE_NORMAL
+	db 19, SYLVEON
 	db -1 ; end
 
 TwinsGroup:
